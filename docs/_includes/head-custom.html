@@ -33,3 +33,12 @@
 
 <!-- setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
+
+<!-- Service Worker Registration -->
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js');
+  });
+}
+</script>

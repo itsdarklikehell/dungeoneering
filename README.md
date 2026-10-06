@@ -1,27 +1,38 @@
-# dungeoneering
+# Dungeoneering
 
-Free and slimmed down virtual tabletop (VTT) that can be used as a combat grid and as a dungeon exploration tool, made for local, in-person tabletop RPG sessions
+Free and slimmed down virtual tabletop (VTT) that can be used as a combat grid and as a dungeon exploration tool, made for local, in-person tabletop RPG sessions.
 
-## Beschrijving
+## Features
 
-Dit project is onderdeel van de GitHub fleet van Hans Molenaar (itsdarklikehell).
+- Combat grid for tactical encounters
+- Dungeon exploration tools
+- Local, in-person play focus
+- Lightweight and fast
 
-## Technologie
+## Tech Stack
 
-- **Primaire taal:** onbekend
+- HTML/CSS/JavaScript
+- No build step required
 
-## Installatie
+## Installation
 
-Zie de projectdocumentatie voor installatie-instructies.
+```bash
+git clone https://github.com/itsdarklikehell/dungeoneering.git
+cd dungeoneering
+```
 
-## Gebruik
+## Usage
 
-Zie de projectdocumentatie voor gebruiksinstructies.
+Open `docs/index.html` in your browser or serve the `docs/` directory with any web server.
 
-## Bijdragen
+## PWA
 
-Bijdragen zijn welkom. Zie CONTRIBUTING.md voor meer informatie.
+This app supports PWA installation. Add it to your home screen for quick access.
 
-## Licentie
+## Contributing
 
-Zie LICENSE voor meer informatie.
+Contributions are welcome. See CONTRIBUTING.md for more information.
+
+## License
+
+MIT

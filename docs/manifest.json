@@ -1,0 +1,21 @@
+{
+  "name": "Dungeoneering VTT",
+  "short_name": "Dungeoneering",
+  "description": "Free and slimmed down virtual tabletop (VTT) for local, in-person RPG sessions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
